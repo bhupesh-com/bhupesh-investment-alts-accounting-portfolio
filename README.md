@@ -3,6 +3,8 @@
 🌐 **Live Real-Time Web Application:** [https://bhupesh-com.github.io/bhupesh-investment-alts-accounting-portfolio/](https://bhupesh-com.github.io/bhupesh-investment-alts-accounting-portfolio/)
 
 ---
+
+## Projects:
 1. **Balanced Portfolio Management**
    - Developed an innovative model for portfolio management that balances risk and returns.
 2. **Risk Assessment Framework**
